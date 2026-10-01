@@ -1,0 +1,1 @@
+Hello, this is my first message that I write to be used for learning Git.
